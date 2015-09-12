@@ -1,7 +1,6 @@
 # NeoPixel-Corner-Board
-A little board to make neat corners when joining WS2812B neopixel strips
-
 This little board helps make neat corners when joining WS2812B strips at right angles. 
 
-The board looks like this...
+Full info here...
+http://wp.josh.com/2015/09/12/neopixel-corner-cases-accurate-and-easy-rectangles-with-ws2812b-strips/
 
